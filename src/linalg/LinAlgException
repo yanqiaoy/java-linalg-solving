@@ -3,7 +3,7 @@ package linalg;
 /** A simple specialized Exception class for our Linear Algebra package.  Use this
  *  class as you would any Exception.  You do not need to modify this file!
  * 
- * @author ssanner@mie.utoronto.ca
+ * @author yanqiaoy
  *
  */
 public class LinAlgException extends Exception {
