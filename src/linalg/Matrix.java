@@ -5,7 +5,7 @@ package linalg;
  *   
  *   Class and method comments are in JavaDoc: https://en.wikipedia.org/wiki/Javadoc
  * 
- * @author ssanner@mie.utoronto.ca, <YOUR_EMAIL>
+ * @author ssanner@mie.utoronto.ca, yanqiaoy
  *
  */
 public class Matrix {
